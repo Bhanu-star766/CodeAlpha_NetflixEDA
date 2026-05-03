@@ -30,3 +30,22 @@ The analysis highlights Netflix’s expansion strategy and evolving content tren
 ## 🔗 Project Files
 - Netflix_EDA.ipynb (analysis notebook)
 - netflix_titles.csv (dataset)
+
+  
+## Task 3: Data Visualization
+**File:** Netflix_Visualization.ipynb
+
+Created:
+- Content distribution visuals
+- Growth trend charts
+- Rating analysis
+- Visual storytelling
+
+## Dataset Used
+Netflix Titles Dataset
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
